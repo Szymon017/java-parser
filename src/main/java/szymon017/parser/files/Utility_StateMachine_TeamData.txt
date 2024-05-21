@@ -1,0 +1,1050 @@
+=====================================
+Round_1
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 50
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 11
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 31
+=====================================
+Time of battle: 48,48389 seconds
+=====================================
+
+=====================================
+Round_2
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 46,66667
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 6
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 27
+Team: Utility AI, Attacks 25
+=====================================
+Time of battle: 29,49884 seconds
+=====================================
+
+=====================================
+Round_3
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 43,33333
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 8
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 37,26214 seconds
+=====================================
+
+=====================================
+Round_4
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 6
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 27
+Team: Utility AI, Attacks 27
+=====================================
+Time of battle: 33,33994 seconds
+=====================================
+
+=====================================
+Round_5
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 50
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 12
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 39,00162 seconds
+=====================================
+
+=====================================
+Round_6
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 27
+Team: Utility AI, Attacks 26
+=====================================
+Time of battle: 38,22118 seconds
+=====================================
+
+=====================================
+Round_7
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 8
+=====================================
+Team: State Machine, Attacks 26
+Team: Utility AI, Attacks 24
+=====================================
+Time of battle: 36,31908 seconds
+=====================================
+
+=====================================
+Round_8
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 45
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 27
+Team: Utility AI, Attacks 27
+=====================================
+Time of battle: 35,24041 seconds
+=====================================
+
+=====================================
+Round_9
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 8
+=====================================
+Team: State Machine, Attacks 29
+Team: Utility AI, Attacks 28
+=====================================
+Time of battle: 35,71751 seconds
+=====================================
+
+=====================================
+Round_10
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 7
+=====================================
+Team: State Machine, Attacks 24
+Team: Utility AI, Attacks 25
+=====================================
+Time of battle: 35,60144 seconds
+=====================================
+
+=====================================
+Round_11
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 32
+=====================================
+Time of battle: 39,84375 seconds
+=====================================
+
+=====================================
+Round_12
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 43,33333
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 27
+Team: Utility AI, Attacks 25
+=====================================
+Time of battle: 32,69681 seconds
+=====================================
+
+=====================================
+Round_13
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 6
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 28
+Team: Utility AI, Attacks 24
+=====================================
+Time of battle: 29,90635 seconds
+=====================================
+
+=====================================
+Round_14
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 32
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 34,55722 seconds
+=====================================
+
+=====================================
+Round_15
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 28
+Team: Utility AI, Attacks 25
+=====================================
+Time of battle: 34,9622 seconds
+=====================================
+
+=====================================
+Round_16
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 8
+=====================================
+Team: State Machine, Attacks 26
+Team: Utility AI, Attacks 25
+=====================================
+Time of battle: 35,01263 seconds
+=====================================
+
+=====================================
+Round_17
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 30
+=====================================
+Time of battle: 34,13931 seconds
+=====================================
+
+=====================================
+Round_18
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 28
+=====================================
+Time of battle: 33,28313 seconds
+=====================================
+
+=====================================
+Round_19
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 29
+Team: Utility AI, Attacks 27
+=====================================
+Time of battle: 36,4977 seconds
+=====================================
+
+=====================================
+Round_20
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 43,33333
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 7
+=====================================
+Team: State Machine, Attacks 28
+Team: Utility AI, Attacks 30
+=====================================
+Time of battle: 41,07575 seconds
+=====================================
+
+=====================================
+Round_21
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 23,33333
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 6
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 24
+=====================================
+Time of battle: 29,73901 seconds
+=====================================
+
+=====================================
+Round_22
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 31
+=====================================
+Time of battle: 38,70277 seconds
+=====================================
+
+=====================================
+Round_23
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 30
+=====================================
+Time of battle: 34,29593 seconds
+=====================================
+
+=====================================
+Round_24
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 35
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 28
+=====================================
+Time of battle: 33,17933 seconds
+=====================================
+
+=====================================
+Round_25
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 26,66667
+=====================================
+Team: State Machine, Health picked 5
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 31
+=====================================
+Time of battle: 49,26332 seconds
+=====================================
+
+=====================================
+Round_26
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 45
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 11
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 32
+=====================================
+Time of battle: 49,51868 seconds
+=====================================
+
+=====================================
+Round_27
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 11
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 28
+=====================================
+Time of battle: 34,26881 seconds
+=====================================
+
+=====================================
+Round_28
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 6
+Team: Utility AI, Evades 8
+=====================================
+Team: State Machine, Attacks 25
+Team: Utility AI, Attacks 23
+=====================================
+Time of battle: 27,49879 seconds
+=====================================
+
+=====================================
+Round_29
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 27
+=====================================
+Time of battle: 32,9167 seconds
+=====================================
+
+=====================================
+Round_30
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 50
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 11
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 31
+=====================================
+Time of battle: 47,39338 seconds
+=====================================
+
+=====================================
+Round_31
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 28
+=====================================
+Time of battle: 32,04201 seconds
+=====================================
+
+=====================================
+Round_32
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 46,66667
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 30
+=====================================
+Time of battle: 41,17744 seconds
+=====================================
+
+=====================================
+Round_33
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 43,33333
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 8
+=====================================
+Team: State Machine, Attacks 26
+Team: Utility AI, Attacks 27
+=====================================
+Time of battle: 31,3606 seconds
+=====================================
+
+=====================================
+Round_34
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 33,7267 seconds
+=====================================
+
+=====================================
+Round_35
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 10
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 35,76634 seconds
+=====================================
+
+=====================================
+Round_36
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 11
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 28
+=====================================
+Time of battle: 39,55308 seconds
+=====================================
+
+=====================================
+Round_37
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 6
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 29
+Team: Utility AI, Attacks 24
+=====================================
+Time of battle: 33,10398 seconds
+=====================================
+
+=====================================
+Round_38
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 45
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 35,62337 seconds
+=====================================
+
+=====================================
+Round_39
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 6
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 31
+Team: Utility AI, Attacks 28
+=====================================
+Time of battle: 38,33297 seconds
+=====================================
+
+=====================================
+Round_40
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 43,33333
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 7
+=====================================
+Team: State Machine, Attacks 24
+Team: Utility AI, Attacks 23
+=====================================
+Time of battle: 29,681 seconds
+=====================================
+
+=====================================
+Round_41
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 10
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 2
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 12
+=====================================
+Team: State Machine, Attacks 33
+Team: Utility AI, Attacks 30
+=====================================
+Time of battle: 32,6446 seconds
+=====================================
+
+=====================================
+Round_42
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 35
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 27
+=====================================
+Time of battle: 32,3642 seconds
+=====================================
+
+=====================================
+Round_43
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 24
+Team: Utility AI, Attacks 25
+=====================================
+Time of battle: 36,47581 seconds
+=====================================
+
+=====================================
+Round_44
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 7
+Team: Utility AI, Evades 8
+=====================================
+Team: State Machine, Attacks 29
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 35,43766 seconds
+=====================================
+
+=====================================
+Round_45
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 2
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 9
+Team: Utility AI, Evades 11
+=====================================
+Team: State Machine, Attacks 34
+Team: Utility AI, Attacks 31
+=====================================
+Time of battle: 45,61663 seconds
+=====================================
+
+=====================================
+Round_46
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 5
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 30
+=====================================
+Time of battle: 38,67495 seconds
+=====================================
+
+=====================================
+Round_47
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: State Machine, Health picked 0
+Team: Utility AI, Health picked 3
+=====================================
+Team: State Machine, Evades 4
+Team: Utility AI, Evades 7
+=====================================
+Team: State Machine, Attacks 21
+Team: Utility AI, Attacks 20
+=====================================
+Time of battle: 26,19704 seconds
+=====================================
+
+=====================================
+Round_48
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 46,66667
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 6
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 24
+Team: Utility AI, Attacks 24
+=====================================
+Time of battle: 33,77853 seconds
+=====================================
+
+=====================================
+Round_49
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 32
+Team: Utility AI, Attacks 30
+=====================================
+Time of battle: 35,03729 seconds
+=====================================
+
+=====================================
+Round_50
+Team: State Machine, Alive Units: 0
+Team: State Machine, Dead Units: 3
+Team: State Machine, Avarage HP: Team: State Machine, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: State Machine, Health picked 1
+Team: Utility AI, Health picked 4
+=====================================
+Team: State Machine, Evades 8
+Team: Utility AI, Evades 9
+=====================================
+Team: State Machine, Attacks 30
+Team: Utility AI, Attacks 29
+=====================================
+Time of battle: 36,37584 seconds
+=====================================
+

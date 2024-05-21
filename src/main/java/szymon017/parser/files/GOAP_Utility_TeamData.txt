@@ -1,0 +1,1050 @@
+=====================================
+Round_1
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 35
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 30
+Team: GOAP, Attacks 30
+=====================================
+Time of battle: 46,5424 seconds
+=====================================
+
+=====================================
+Round_2
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 26,66667
+=====================================
+Team: Utility AI, Health picked 6
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 28
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 38,75068 seconds
+=====================================
+
+=====================================
+Round_3
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 29
+Team: GOAP, Attacks 37
+=====================================
+Time of battle: 38,94911 seconds
+=====================================
+
+=====================================
+Round_4
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 35
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 32
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 33,21267 seconds
+=====================================
+
+=====================================
+Round_5
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 25
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 35
+Team: GOAP, Attacks 41
+=====================================
+Time of battle: 40,2759 seconds
+=====================================
+
+=====================================
+Round_6
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 26,66667
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 6
+=====================================
+Team: Utility AI, Attacks 32
+Team: GOAP, Attacks 35
+=====================================
+Time of battle: 34,61631 seconds
+=====================================
+
+=====================================
+Round_7
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 46,66667
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 31
+Team: GOAP, Attacks 30
+=====================================
+Time of battle: 34,83478 seconds
+=====================================
+
+=====================================
+Round_8
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 43,33333
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 6
+=====================================
+Team: Utility AI, Attacks 33
+Team: GOAP, Attacks 34
+=====================================
+Time of battle: 35,68288 seconds
+=====================================
+
+=====================================
+Round_9
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 43,33333
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 2
+=====================================
+Team: Utility AI, Attacks 33
+Team: GOAP, Attacks 34
+=====================================
+Time of battle: 35,73886 seconds
+=====================================
+
+=====================================
+Round_10
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 50
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 8
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 34
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 38,46042 seconds
+=====================================
+
+=====================================
+Round_11
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 25
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 4
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 34
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 41,71876 seconds
+=====================================
+
+=====================================
+Round_12
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 45
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 6
+=====================================
+Team: Utility AI, Attacks 32
+Team: GOAP, Attacks 33
+=====================================
+Time of battle: 33,86991 seconds
+=====================================
+
+=====================================
+Round_13
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 4
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 5
+=====================================
+Team: Utility AI, Attacks 38
+Team: GOAP, Attacks 39
+=====================================
+Time of battle: 42,33793 seconds
+=====================================
+
+=====================================
+Round_14
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 33
+Team: GOAP, Attacks 38
+=====================================
+Time of battle: 39,57234 seconds
+=====================================
+
+=====================================
+Round_15
+Team: GOAP, Alive Units: 2
+Team: GOAP, Dead Units: 1
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: 15
+Team: Utility AI, Alive Units: 0
+Team: Utility AI, Dead Units: 3
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: NaN
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 31
+Team: GOAP, Attacks 39
+=====================================
+Time of battle: 40,42172 seconds
+=====================================
+
+=====================================
+Round_16
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 26,66667
+=====================================
+Team: Utility AI, Health picked 6
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 7
+=====================================
+Team: Utility AI, Attacks 37
+Team: GOAP, Attacks 40
+=====================================
+Time of battle: 41,77808 seconds
+=====================================
+
+=====================================
+Round_17
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 25
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 35
+Team: GOAP, Attacks 38
+=====================================
+Time of battle: 41,92157 seconds
+=====================================
+
+=====================================
+Round_18
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 46,66667
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 7
+Team: GOAP, Evades 5
+=====================================
+Team: Utility AI, Attacks 27
+Team: GOAP, Attacks 24
+=====================================
+Time of battle: 34,69353 seconds
+=====================================
+
+=====================================
+Round_19
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 5
+=====================================
+Team: Utility AI, Attacks 33
+Team: GOAP, Attacks 39
+=====================================
+Time of battle: 47,0369 seconds
+=====================================
+
+=====================================
+Round_20
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 35
+Team: GOAP, Attacks 40
+=====================================
+Time of battle: 38,39581 seconds
+=====================================
+
+=====================================
+Round_21
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 50
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 8
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 24
+Team: GOAP, Attacks 24
+=====================================
+Time of battle: 24,83399 seconds
+=====================================
+
+=====================================
+Round_22
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 25
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 31
+Team: GOAP, Attacks 35
+=====================================
+Time of battle: 39,94851 seconds
+=====================================
+
+=====================================
+Round_23
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 5
+=====================================
+Team: Utility AI, Attacks 28
+Team: GOAP, Attacks 31
+=====================================
+Time of battle: 36,02523 seconds
+=====================================
+
+=====================================
+Round_24
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 31
+Team: GOAP, Attacks 28
+=====================================
+Time of battle: 32,49269 seconds
+=====================================
+
+=====================================
+Round_25
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 30
+Team: GOAP, Attacks 33
+=====================================
+Time of battle: 37,58332 seconds
+=====================================
+
+=====================================
+Round_26
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 5
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 10
+=====================================
+Team: Utility AI, Attacks 40
+Team: GOAP, Attacks 40
+=====================================
+Time of battle: 48,6648 seconds
+=====================================
+
+=====================================
+Round_27
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 15
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 2
+=====================================
+Team: Utility AI, Attacks 29
+Team: GOAP, Attacks 34
+=====================================
+Time of battle: 35,73293 seconds
+=====================================
+
+=====================================
+Round_28
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 46,66667
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 1
+=====================================
+Team: Utility AI, Attacks 26
+Team: GOAP, Attacks 29
+=====================================
+Time of battle: 35,93401 seconds
+=====================================
+
+=====================================
+Round_29
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 45
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 6
+=====================================
+Team: Utility AI, Attacks 31
+Team: GOAP, Attacks 30
+=====================================
+Time of battle: 39,44276 seconds
+=====================================
+
+=====================================
+Round_30
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 2
+=====================================
+Team: Utility AI, Attacks 32
+Team: GOAP, Attacks 38
+=====================================
+Time of battle: 40,00254 seconds
+=====================================
+
+=====================================
+Round_31
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 10
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 4
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 36
+Team: GOAP, Attacks 43
+=====================================
+Time of battle: 48,68246 seconds
+=====================================
+
+=====================================
+Round_32
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: Utility AI, Health picked 5
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 30
+Team: GOAP, Attacks 24
+=====================================
+Time of battle: 36,89395 seconds
+=====================================
+
+=====================================
+Round_33
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 50
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 33
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 37,70441 seconds
+=====================================
+
+=====================================
+Round_34
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 8
+=====================================
+Team: Utility AI, Attacks 38
+Team: GOAP, Attacks 37
+=====================================
+Time of battle: 48,6634 seconds
+=====================================
+
+=====================================
+Round_35
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 26,66667
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 7
+=====================================
+Team: Utility AI, Attacks 36
+Team: GOAP, Attacks 32
+=====================================
+Time of battle: 39,42707 seconds
+=====================================
+
+=====================================
+Round_36
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 16,66667
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 2
+=====================================
+Team: Utility AI, Attacks 32
+Team: GOAP, Attacks 34
+=====================================
+Time of battle: 32,86272 seconds
+=====================================
+
+=====================================
+Round_37
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 1
+=====================================
+Team: Utility AI, Attacks 27
+Team: GOAP, Attacks 39
+=====================================
+Time of battle: 50,72763 seconds
+=====================================
+
+=====================================
+Round_38
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 23,33333
+=====================================
+Team: Utility AI, Health picked 6
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 14
+Team: GOAP, Evades 7
+=====================================
+Team: Utility AI, Attacks 38
+Team: GOAP, Attacks 42
+=====================================
+Time of battle: 43,91327 seconds
+=====================================
+
+=====================================
+Round_39
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: Utility AI, Health picked 1
+Team: GOAP, Health picked 4
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 36
+Team: GOAP, Attacks 35
+=====================================
+Time of battle: 36,0667 seconds
+=====================================
+
+=====================================
+Round_40
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 3
+=====================================
+Team: Utility AI, Attacks 33
+Team: GOAP, Attacks 37
+=====================================
+Time of battle: 33,03059 seconds
+=====================================
+
+=====================================
+Round_41
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 36,66667
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 8
+=====================================
+Team: Utility AI, Attacks 40
+Team: GOAP, Attacks 34
+=====================================
+Time of battle: 44,86766 seconds
+=====================================
+
+=====================================
+Round_42
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 33,33333
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 5
+=====================================
+Team: Utility AI, Attacks 36
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 39,24557 seconds
+=====================================
+
+=====================================
+Round_43
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 23,33333
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 6
+=====================================
+Team: Utility AI, Attacks 34
+Team: GOAP, Attacks 35
+=====================================
+Time of battle: 35,69351 seconds
+=====================================
+
+=====================================
+Round_44
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 11
+Team: GOAP, Evades 9
+=====================================
+Team: Utility AI, Attacks 38
+Team: GOAP, Attacks 37
+=====================================
+Time of battle: 38,61088 seconds
+=====================================
+
+=====================================
+Round_45
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 3
+Team: Utility AI, Dead Units: 0
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 20
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 2
+=====================================
+Team: Utility AI, Attacks 31
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 34,68611 seconds
+=====================================
+
+=====================================
+Round_46
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: Utility AI, Health picked 4
+Team: GOAP, Health picked 1
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 4
+=====================================
+Team: Utility AI, Attacks 31
+Team: GOAP, Attacks 34
+=====================================
+Time of battle: 36,64842 seconds
+=====================================
+
+=====================================
+Round_47
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 50
+=====================================
+Team: Utility AI, Health picked 2
+Team: GOAP, Health picked 5
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 7
+=====================================
+Team: Utility AI, Attacks 38
+Team: GOAP, Attacks 39
+=====================================
+Time of battle: 49,51001 seconds
+=====================================
+
+=====================================
+Round_48
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 1
+Team: Utility AI, Dead Units: 2
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 10
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 0
+=====================================
+Team: Utility AI, Evades 10
+Team: GOAP, Evades 7
+=====================================
+Team: Utility AI, Attacks 34
+Team: GOAP, Attacks 36
+=====================================
+Time of battle: 39,24096 seconds
+=====================================
+
+=====================================
+Round_49
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 30
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 2
+=====================================
+Team: Utility AI, Evades 9
+Team: GOAP, Evades 5
+=====================================
+Team: Utility AI, Attacks 35
+Team: GOAP, Attacks 38
+=====================================
+Time of battle: 44,65409 seconds
+=====================================
+
+=====================================
+Round_50
+Team: GOAP, Alive Units: 0
+Team: GOAP, Dead Units: 3
+Team: GOAP, Avarage HP: Team: GOAP, Avarage HP: NaN
+Team: Utility AI, Alive Units: 2
+Team: Utility AI, Dead Units: 1
+Team: Utility AI, Avarage HP: Team: Utility AI, Avarage HP: 40
+=====================================
+Team: Utility AI, Health picked 3
+Team: GOAP, Health picked 3
+=====================================
+Team: Utility AI, Evades 12
+Team: GOAP, Evades 5
+=====================================
+Team: Utility AI, Attacks 35
+Team: GOAP, Attacks 38
+=====================================
+Time of battle: 40,48677 seconds
+=====================================
+
